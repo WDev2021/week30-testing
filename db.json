@@ -441,6 +441,45 @@
       "latitude": "34.4621",
       "longitude": "-121.5809",
       "avatar": "https://cdn.fakercloud.com/avatars/rawdiggie_128.jpg"
+    },
+    {
+      "name": "Chelsie McKenzie",
+      "dob": "1943-1-1",
+      "email": "Chelsie83@yahoo.com",
+      "username": "Chelsie.McKenzie51",
+      "password": "jj5V6jPTR7DxjWR",
+      "phone": "(768) 362-4307",
+      "streetaddress": "804 Dach Spring",
+      "citystatezip": "Huntsville, ME 92745",
+      "latitude": "-36.7033",
+      "longitude": "-119.5782",
+      "avatar": "https://cdn.fakercloud.com/avatars/matkins_128.jpg"
+    },
+    {
+      "name": "Bart Wisoky",
+      "dob": "1981-2-7",
+      "email": "Bart7@gmail.com",
+      "username": "Bart70",
+      "password": "b3jhFHnpXCib1m4",
+      "phone": "667.793.5580 x044",
+      "streetaddress": "1599 Maggio Mountains",
+      "citystatezip": "Croninland, OH 60804-7243",
+      "latitude": "24.1233",
+      "longitude": "37.7715",
+      "avatar": "https://cdn.fakercloud.com/avatars/gizmeedevil1991_128.jpg"
+    },
+    {
+      "name": "Dock Harber",
+      "dob": "1973-1-5",
+      "email": "Dock67@yahoo.com",
+      "username": "Dock_Harber",
+      "password": "Vqzml1d2UpMp41H",
+      "phone": "1-494-658-8014 x34689",
+      "streetaddress": "797 Davis Square",
+      "citystatezip": "East Jamarfort, OR 43686",
+      "latitude": "-52.4968",
+      "longitude": "-94.8190",
+      "avatar": "https://cdn.fakercloud.com/avatars/themadray_128.jpg"
     }
   ]
 }
